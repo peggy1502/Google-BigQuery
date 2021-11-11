@@ -14,6 +14,6 @@ You can earn a skill badge after completing the quest and the challenge lab.
 - [Troubleshooting and Solving Data Join Pitfalls](bigquery-data-join-pitfalls.ipynb)
 - [Exploring Your Ecommerce Dataset with SQL in Google BigQuery](bigquery-explore-ecommerce-dataset-with-sql.ipynb)
 - [Creating Permanent Tables and Access-Controlled Views in BigQuery](bigquery-create-tables-and-views.ipynb)
-- Working with JSON, Arrays, and Structs in BigQuery
+- [Working with JSON, Arrays, and Structs in BigQuery](bigquery-json-arrays-and-structs.ipynb)
 
 
