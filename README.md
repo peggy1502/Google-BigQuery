@@ -1,6 +1,6 @@
 # Insights from Data with BigQuery: Challenge Lab
 
-[This notebook](Google_BigQuery.ipynb) contains my solutions to the Google Cloud [challenge lab](https://google.qwiklabs.com/focuses/11988?parent=catalog) for the **[Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123)** quest.
+[This notebook](insights/Google_BigQuery.ipynb) contains my solutions to the Google Cloud [challenge lab](https://google.qwiklabs.com/focuses/11988?parent=catalog) for the **[Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123)** quest.
 
 You can earn a skill badge after completing the quest and the challenge lab.
 
